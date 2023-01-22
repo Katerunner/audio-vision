@@ -1,6 +1,7 @@
 /__pycache__
 /models
 /*.h5
+*.h5
 /*.zip
 /.vscode
 *.jpg
